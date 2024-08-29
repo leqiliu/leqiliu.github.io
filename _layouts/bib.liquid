@@ -181,6 +181,9 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {%- if entry.note -%}
+        <div class="entrynote"><b style="color:#C41E3A">{{entry.note}}</b></div>
+    {%- endif -%} 
 
     <!-- Links/Buttons -->
     <div class="links">
@@ -246,6 +249,12 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.talk %}
+        <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk</a>
+      {% endif %}
+      {% if entry.data %}
+        <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Data</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

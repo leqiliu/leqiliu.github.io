@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-13 16:11:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I will join [DeepMind](https://deepmind.com/) as a research scientist intern working on Human-centered Mechanism Design this summer.

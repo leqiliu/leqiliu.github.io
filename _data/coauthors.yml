@@ -1,34 +1,127 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Lipton":
+  - firstname: ["Zachary", "Zachary C.", "Zachary C"]
+    url: https://www.zacharylipton.com
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kennedy":
+  - firstname: ["Edward", "Edward H"]
+    url: http://www.ehkennedy.com
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Azizzadenesheli":
+  - firstname: ["Kamyar"]
+    url: https://www.cs.purdue.edu/homes/kamyar/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Hadfield-Menell": 
+  - firstname: ["Dylan"]
+    url: https://engineering.mit.edu/faculty/dylan-hadfield-menell/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Ben-Porat":
+  - firstname: ["Omer"]
+    url: https://sites.google.com/site/omerbp/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Ben-Porat*":
+  - firstname: ["Omer"]
+    url: https://sites.google.com/site/omerbp/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Mansour":
+  - firstname: ["Yishay"]
+    url: https://www.tau.ac.il/~mansour/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kilinc Karzan":
+  - firstname: ["Fatma"]
+    url: https://www.andrew.cmu.edu/user/fkilinc/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Khim":
+  - firstname: ["Justin"]
+    url: https://justinkhim.com
+
+"Prasad":
+  - firstname: ["Adarsh"]
+    url: https://www.cs.cmu.edu/~adarshp/
+
+"Dan":
+  - firstname: ["Chen"]
+    url: https://chendancmu.github.io
+
+"Ravikumar":
+  - firstname: ["Pradeep", "Pradeep K"]
+    url: https://www.cs.cmu.edu/~pradeepr/
+
+"Preotiuc-Pietro*":
+  - firstname: ["Daniel"]
+    url: https://www.preotiuc.ro
+
+"Ungar":
+  - firstname: ["Lyle"]
+    url: https://www.cis.upenn.edu/~ungar/
+
+"Montgomery":
+  - firstname: ["Alan"]
+    url: https://www.andrew.cmu.edu/user/alm3/
+
+"Mitchell":
+  - firstname: ["Tom M", "Tom"]
+    url: http://www.cs.cmu.edu/~tom/
+
+"Cohen":
+  - firstname: ["William", "William W"]
+    url: http://www.cs.cmu.edu/~wcohen/
+
+"Wu":
+  - firstname: ["Yifan"]
+    url: https://www.cs.cmu.edu/~yw4/
+
+"Inouye":
+  - firstname: ["David"]
+    url: https://www.davidinouye.com
+
+"Aragam":
+  - firstname: ["Bryon"]
+    url: https://www.bryonaragam.com
+
+"Kim":
+  - firstname: ["Joon Sik"]
+    url: https://wnstlr.github.io
+
+
+"Jiang":
+  - firstname: ["Yunfan"]
+    url: https://ai.stanford.edu/~yunfanj/
+
+  - firstname: ["Yueyi", "Sherry Yueyi"]
+  
+
+"Huang":
+  - firstname: ["Audrey"]
+  - firstname: ["Biwei"]
+    url: https://biweihuang.com
+
+"Yang":
+  - firstname: ["Fan"]
+
+"Cohen*":
+  - firstname: ["Lee"]
+    url: https://scholar.google.com/citations?user=KBHW5wsAAAAJ&hl=en
+
+"Lu":
+  - firstname: ["Chaochao"]
+    url: https://causallu.com
+
+"Zhang":
+  - firstname: ["Kun"]
+    url: https://www.andrew.cmu.edu/user/kunz1/
+
+"Heidari":
+  - firstname: ["Hoda"]
+    url: http://www.cs.cmu.edu/~hheidari/
+
+"Rastogi*":
+  - firstname: ["Charvi"]
+    url: https://sites.google.com/view/charvirastogi/home
+
+"Holstein":
+  - firstname: ["Kenneth"]
+    url: https://www.thecoalalab.com/kenholstein
+
+"Zhou*":
+  - firstname: ["Giulio"]
+    url: http://giuliozhou.com/
