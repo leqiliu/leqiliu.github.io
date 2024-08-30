@@ -139,10 +139,10 @@
   author={Huang, Audrey and Leqi, Liu and Lipton, Zachary C and Azizzadenesheli, Kamyar},
   journal={Workshop on Challenges of Real World Reinforcement Learning (RWRL) at NeurIPS},
   year={2020},
-  category={Workshop},
+  category={workshop},
   pdf={https://arxiv.org/pdf/2103.02827.pdf},
   abstract={In order to model risk aversion in reinforcement learning, an emerging line of research adapts familiar algorithms to optimize coherent risk functionals, a class that includes conditional value-at-risk (CVaR). Because optimizing the coherent risk is difficult in Markov decision processes, recent work tends to focus on the Markov coherent risk (MCR), a time-consistent surrogate. While, policy gradient (PG) updates have been derived for this objective, it remains unclear (i) whether PG finds a global optimum for MCR; (ii) how to estimate the gradient in a tractable manner. In this paper, we demonstrate that, in general, MCR objectives (unlike the expected return) are not gradient dominated and that stationary points are not, in general, guaranteed to be globally optimal. Moreover, we present a tight upper bound on the suboptimality of the learned policy, characterizing its dependence on the nonlinearity of the objective and the degree of risk aversion. Addressing (ii), we propose a practical implementation of PG that uses state distribution reweighting to overcome previous limitations. Through experiments, we demonstrate that when the optimality gap is small, PG can learn risk-sensitive policies. However, we find that instances with large suboptimality gaps are abundant and easy to construct, outlining an important challenge for future research.},
-  abbr={workshop}
+  abbr={Workshop}
 }
 
 
@@ -222,11 +222,11 @@
   author={Wong, William and Huang, Audrey and Leqi, Liu and Azizzadenesheli, Kamyar and Lipton, Zachary C},
   journal={ICML workshop on Responsible Decision Making in Dynamic Environments},
   year={2022},
-  category={Workshop},
+  category={workshop},
   pdf={https://responsibledecisionmaking.github.io/assets/pdf/papers/31.pdf},
   abstract={Supervised learning models are increasingly used in algorithmic decision-making. The traditional assumption on the training and testing data being independently and identically distributed is often violated in practical learning settings, due to distribution shifts. To mitigate the effects of such nonstationarities, risk-sensitive learning is proposed to train models under different (risk) functionals beyond the expected loss. For example, learning under the conditional value-at-risk of the losses is equivalent to training a model under a particular type of worst-case distribution shift. While many risk functionals and learning procedures have been proposed, their implementations are either nonexistent or in individualized repositories. With no common implementations and baseline test beds, it is difficult to decide which risk functionals and learning procedures to use. To address this, we introduce a library (RiskyZoo) for risk-sensitive supervised learning. The library contains implementations of risk-sensitive learning objectives and optimization procedures that can be used as add-ons to the PyTorch library. We also provide datasets to compare these learning methods. We demonstrate usage of our library through comparing models learned under different risk objectives, optimization performances of different methods for a single objective, and risk assessments of pretrained ImageNet models.},
   code={https://github.com/w07wong/RiskyZoo},
-  abbr={workshop}
+  abbr={Workshop}
 }
 
 @article{leqi2022field,
