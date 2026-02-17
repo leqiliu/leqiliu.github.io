@@ -9,7 +9,7 @@ profile:
   image: leqi_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center><p> <a>Office:</a> CBA 6.422 </p></center>
+    <center><p> <a>Office:</a> CBA 6.442 </p></center>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
