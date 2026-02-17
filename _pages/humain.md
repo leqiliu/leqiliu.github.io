@@ -6,6 +6,10 @@ description: Build controllable machine intelligence that serves humanity safely
 nav: true
 ---
 
+<div class="alert alert-warning" role="alert" style="margin-bottom: 2rem; padding: 1rem; background-color:rgb(250, 247, 236); border: 1px solid #ffc107; border-radius: 0.25rem;">
+  <strong>This page will no longer be updated. For information about the HUMAIN lab, please refer to: <a href="http://humain-lab.ai" target="_blank" rel="noopener noreferrer">http://humain-lab.ai</a>.</strong>
+</div>
+
 The [<green-strong>HU</green-strong>man-centered <green-strong>MA</green-strong>chine <green-strong>IN</green-strong>telligence (<green-strong>HUMAIN</green-strong>) Lab]()* has the mission to **build controllable machine intelligence that serves humanity safely**. 
 
 The research in the lab is naturally **interdisciplinary**. In addition to traditional backbone subjects of machine learning (e.g., deep learning, statistics, optimization), we also gain inspiration from social sciences including economics and psychology about how we could model human preferences and behaviors, and develop rigorous human-subject studies to evaluate machine learning systems and algorithms. 
