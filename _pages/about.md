@@ -2,21 +2,21 @@
 layout: about
 title: About
 permalink: /
-<!-- subtitle: <a href='#'>UT Austin</a>. Address. Contacts. Moto. Etc. -->
+subtitle: Assistant Professor at UT Austin · Visiting Faculty Researcher at Google
 
 profile:
   align: right
   image: leqi_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <center><p> <a>Office:</a> CBA 6.442 </p></center>
+    <center><p> <a>Office:</a> CBA 6.422 </p></center>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome! I am an AI researcher currently focusing on understanding and developing large language models. My overarching research goal is to build controllable machine intelligence that serves humanity safely. For more information about my research, please check out the [HUMAIN lab](https://humain-lab.ai).
+Welcome! My research focuses on understanding and developing capable and controllable machine intelligence. I work on reinforcement learning and post-training for large language models, with a particular interest in settings where the learning signal is imperfect: reward is not easily verifiable, positive trajectories are scarce, and the people supplying feedback have preferences that differ and change over time. This shapes how I approach reasoning, alignment, personalization, and agentic systems. For more information about my research, please visit the [HUMAIN Lab](https://humain-lab.ai).
 
 <b>Current Appointments:</b>
 - Assistant Professor (2024 - now) in use-inspired AI at the [Department of Information, Risk, and Operations Management](https://www.mccombs.utexas.edu/faculty-and-research/departments/irom/), UT Austin

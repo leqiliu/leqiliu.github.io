@@ -4,6 +4,7 @@ permalink: /humain_lab/
 title: HUMAIN Lab
 description: Build controllable machine intelligence that serves humanity safely.
 nav: true
+redirect: https://www.humain-lab.ai/
 ---
 
 <div class="alert alert-warning" role="alert" style="margin-bottom: 2rem; padding: 1rem; background-color:rgb(250, 247, 236); border: 1px solid #ffc107; border-radius: 0.25rem;">

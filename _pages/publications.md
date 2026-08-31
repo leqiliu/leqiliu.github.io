@@ -5,6 +5,7 @@ title: Publications
 description:  <b> * </b> denotes equal contribution
 nav: true
 nav_order: 2
+redirect: https://scholar.google.com/citations?user=zmbW4iUAAAAJ&hl=en&oi=ao
 ---
 
 <!-- _pages/publications.md -->
@@ -26,4 +27,3 @@ nav_order: 2
 {% bibliography -f papers -q @*[category!=preprint]%}
 
 </div>
-
